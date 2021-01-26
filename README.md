@@ -1,2 +1,2 @@
-# translator-scraper
-Scrapes certain machine translation sites based on the input language.
+# machine-translation-scraping
+This Python script scrapes Machine Translation sites based on input in Source.xlsx
